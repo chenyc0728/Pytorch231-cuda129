@@ -16,8 +16,6 @@
 3. **支持 sm_120** (`torch/utils/cpp_extension.py`)
    - 在 `supported_sm` 列表中加入 `12.0`，使扩展编译能识别 Blackwell 架构
 
-4. **NCCL 编译问题** (`<列出实际修改的文件>`)
-   - <简述修改>
 
 ## 使用方法
 
